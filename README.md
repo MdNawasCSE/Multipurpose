@@ -1,3 +1,3 @@
 # Multipurpose
 
-Repository Link: https://mdnawassharif.github.io/Multipurpose/
+Repository Link: https://mdnawascse.github.io/Multipurpose/
